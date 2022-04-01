@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Head.cpp
+D:\Xxxxic_study\c\Project1\Head.cpp(6,18): warning C4356: “Board::count”: 静态数据成员无法通过派生类初始化
+D:\Xxxxic_study\c\Project1\Head.cpp(39,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Xxxxic_study\c\Project1\Head.cpp(79,15): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\Xxxxic_study\c\Project1\Debug\New.exe
